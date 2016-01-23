@@ -1,3 +1,3 @@
 # TripsTrapsTrull
-Tick Tack Toe game
 Trips Traps Trulli mäng
+(Tick Tack Toe game)
